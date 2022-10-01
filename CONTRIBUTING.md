@@ -53,3 +53,9 @@
 - GitHub - sritikamanjrekar
 
 
+#### Name: [Shivam Kumar](https://github.com/TechShivam02)
+- Place: Budhlada, Punjab, India
+- Bio:  DSA Lover , Web Developer (Front-End), React 
+- GitHub: [TechShivam02](https://github.com/TechShivam02)
+
+
