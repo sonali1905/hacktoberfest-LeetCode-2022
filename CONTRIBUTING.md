@@ -47,14 +47,45 @@
 - Bio: Aspiring Programmer, Btech 3rd Year
 - GitHub - Ydvaaman
 
+##### Name - Meziyum
+- Place: Greater Noida, India
+- Bio: Aspiring Programmer, Btech 3rd Year
+- GitHub - Meziyum
+
 ##### Name - Sritika Manjrekar [https://github.com/sritikamanjrekar]
 - Place: Mumbai, India
 - Bio: Software Engineer, Btech 3rd Year
 - GitHub - sritikamanjrekar
 =======
+
 #### Name: Raushan Kumar Sinha(https://github.com/Raushan-Kumar-Sinha)
 - Place: Chikkaballapur, Karnataka,India
 - Bio: Final year CSE student
 - GitHub: Raushan-Kumar-Sinha(https://github.com/Raushan-Kumar-Sinha)
+=======
+#### Name: Aniruddho Mitra(https://github.com/aniruddho-mitra)
+- Place: Chikkaballapur,Karnataka,India
+- Bio: Final Year Computer Science And Engineering student
+- GitHub: aniruddho_mitra (https://github.com/aniruddho-mitra)
+
+##### Name - Aarav Mishra [https://github.com/aaaravv] 
+- Place: Jodhpur, Rajasthan, India
+- Bio: Full Stack Developer | @archlinux user
+- GitHub: aaaravv (https://github.com/aaaravv)
+=======
+=======
+
+ techshivam02
+#### Name: [Shivam Kumar](https://github.com/TechShivam02)
+- Place: Budhlada, Punjab, India
+- Bio:  DSA Lover , Web Developer (Front-End), React 
+- GitHub: [TechShivam02](https://github.com/TechShivam02)
+=======
+#### Name: [Ayush Rathore](https://github.com/ayusshrathore)
+- Place: Jodhpur, Rajasthan, India
+- Bio: Full Stack Developer
+- GitHub: [ayusshrathore](https://github.com/ayusshrathore)
+=======
+
 
 
