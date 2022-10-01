@@ -53,3 +53,10 @@
 - GitHub - sritikamanjrekar
 
 
+#### Name: [Ayush Rathore](https://github.com/ayusshrathore)
+- Place: Jodhpur, Rajasthan, India
+- Bio: Full Stack Developer
+- GitHub: [ayusshrathore](https://github.com/ayusshrathore)
+=======
+
+
