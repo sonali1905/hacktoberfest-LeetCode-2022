@@ -52,4 +52,8 @@
 - Bio: Software Engineer, Btech 3rd Year
 - GitHub - sritikamanjrekar
 
-
+=======
+#### Name: Lakshay Kumar Singh (https://github.com/laksh0709)
+- Place: Delhi, India
+- Bio: Mechanical Engineer, BE 4th Year 
+- GitHub: laksh0709(https://github.com/laksh0709)
