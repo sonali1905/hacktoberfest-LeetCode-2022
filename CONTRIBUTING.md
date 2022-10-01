@@ -8,11 +8,19 @@
 - Bio: Aspiring Programmer
 - GitHub - DrDSnutts
 
-##### Name - Shubh
-- Place: Noida, India
+##### Name - Susritha
+- Place: Hyderabad, India
 - Bio: Aspiring Programmer
+- GitHub - susritha-s
+=======
 - GitHub - imshubh69
 
+
+##### Name - Debak Roy
+- Place: West Bengal, India
+- Bio: CSE undergrad, Techno Main Salt Lake, West Bengal
+- GitHub - @slayeh17
+=======
 
 #### Name: Mansi
 - Place: Allahabad 
