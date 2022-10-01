@@ -51,5 +51,10 @@
 - Place: Mumbai, India
 - Bio: Software Engineer, Btech 3rd Year
 - GitHub - sritikamanjrekar
+=======
+#### Name: Ayush Bothra(https://github.com/ayushbothra2001)
+- Place: Chikkaballapur,Karnataka,India
+- Bio: B.E 4th year student
+- GitHub: ayushbothra2001(https://github.com/ayushbothra2001)
 
 
