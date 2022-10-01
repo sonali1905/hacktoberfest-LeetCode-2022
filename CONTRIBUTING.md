@@ -100,3 +100,8 @@
 - Place: Delhi, India
 - Bio: Mechanical Engineer, BE 4th Year 
 - GitHub: laksh0709(https://github.com/laksh0709)
+
+#### Name: [Srishti Shukla](https://github.com/Srishti2128)
+- Place: Vellore, Tamil Nadu, India
+- Bio: Computer Science Undergrad, MERN Stack Web Developer
+- GitHub: [Srishti2128](https://github.com/Srishti2128)
