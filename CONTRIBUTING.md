@@ -56,7 +56,11 @@
 - Place: Mumbai, India
 - Bio: Software Engineer, Btech 3rd Year
 - GitHub - sritikamanjrekar
-
+=======
+#### Name: Aniruddho Mitra(https://github.com/aniruddho-mitra)
+- Place: Chikkaballapur,Karnataka,India
+- Bio: Final Year Computer Science And Engineering student
+- GitHub: aniruddho_mitra (https://github.com/aniruddho-mitra)
 
 ##### Name - Aarav Mishra [https://github.com/aaaravv] 
 - Place: Jodhpur, Rajasthan, India
