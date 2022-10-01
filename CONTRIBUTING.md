@@ -47,9 +47,28 @@
 - Bio: Aspiring Programmer, Btech 3rd Year
 - GitHub - Ydvaaman
 
+##### Name - Meziyum
+- Place: Greater Noida, India
+- Bio: Aspiring Programmer, Btech 3rd Year
+- GitHub - Meziyum
+
 ##### Name - Sritika Manjrekar [https://github.com/sritikamanjrekar]
 - Place: Mumbai, India
 - Bio: Software Engineer, Btech 3rd Year
 - GitHub - sritikamanjrekar
+
+
+ techshivam02
+#### Name: [Shivam Kumar](https://github.com/TechShivam02)
+- Place: Budhlada, Punjab, India
+- Bio:  DSA Lover , Web Developer (Front-End), React 
+- GitHub: [TechShivam02](https://github.com/TechShivam02)
+=======
+#### Name: [Ayush Rathore](https://github.com/ayusshrathore)
+- Place: Jodhpur, Rajasthan, India
+- Bio: Full Stack Developer
+- GitHub: [ayusshrathore](https://github.com/ayusshrathore)
+=======
+
 
 
