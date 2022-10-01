@@ -42,3 +42,8 @@
 - Bio: Software Engineer, Btech 3rd Year
 - GitHub - sritikamanjrekar
 
+##### Name - Aarav Mishra [https://github.com/aaaravv] 
+- Place: Jodhpur, Rajasthan, India
+- Bio: Full Stack Developer | @archlinux user
+- GitHub: aaaravv (https://github.com/aaaravv)
+=======
