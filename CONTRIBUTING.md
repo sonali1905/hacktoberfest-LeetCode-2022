@@ -8,11 +8,21 @@
 - Bio: Aspiring Programmer
 - GitHub - DrDSnutts
 
-##### Name - Shubh
-- Place: Noida, India
+##### Name - Susritha
+- Place: Hyderabad, India
 - Bio: Aspiring Programmer
+- GitHub - susritha-s
+
+=======
+=======
 - GitHub - imshubh69
 
+
+##### Name - Debak Roy
+- Place: West Bengal, India
+- Bio: CSE undergrad, Techno Main Salt Lake, West Bengal
+- GitHub - @slayeh17
+=======
 
 #### Name: Mansi
 - Place: Allahabad 
@@ -37,13 +47,36 @@
 - Bio: Aspiring Programmer, Btech 3rd Year
 - GitHub - Ydvaaman
 
+##### Name - Meziyum
+- Place: Greater Noida, India
+- Bio: Aspiring Programmer, Btech 3rd Year
+- GitHub - Meziyum
+
 ##### Name - Sritika Manjrekar [https://github.com/sritikamanjrekar]
 - Place: Mumbai, India
 - Bio: Software Engineer, Btech 3rd Year
 - GitHub - sritikamanjrekar
+
 
 ##### Name - Aarav Mishra [https://github.com/aaaravv] 
 - Place: Jodhpur, Rajasthan, India
 - Bio: Full Stack Developer | @archlinux user
 - GitHub: aaaravv (https://github.com/aaaravv)
 =======
+=======
+
+ techshivam02
+#### Name: [Shivam Kumar](https://github.com/TechShivam02)
+- Place: Budhlada, Punjab, India
+- Bio:  DSA Lover , Web Developer (Front-End), React 
+- GitHub: [TechShivam02](https://github.com/TechShivam02)
+=======
+#### Name: [Ayush Rathore](https://github.com/ayusshrathore)
+- Place: Jodhpur, Rajasthan, India
+- Bio: Full Stack Developer
+- GitHub: [ayusshrathore](https://github.com/ayusshrathore)
+=======
+
+
+
+
