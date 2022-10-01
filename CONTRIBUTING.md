@@ -58,10 +58,17 @@
 - GitHub - sritikamanjrekar
 
 
+ techshivam02
+#### Name: [Shivam Kumar](https://github.com/TechShivam02)
+- Place: Budhlada, Punjab, India
+- Bio:  DSA Lover , Web Developer (Front-End), React 
+- GitHub: [TechShivam02](https://github.com/TechShivam02)
+=======
 #### Name: [Ayush Rathore](https://github.com/ayusshrathore)
 - Place: Jodhpur, Rajasthan, India
 - Bio: Full Stack Developer
 - GitHub: [ayusshrathore](https://github.com/ayusshrathore)
 =======
+
 
 
