@@ -51,5 +51,10 @@
 - Place: Mumbai, India
 - Bio: Software Engineer, Btech 3rd Year
 - GitHub - sritikamanjrekar
+=======
+#### Name: Raushan Kumar Sinha(https://github.com/Raushan-Kumar-Sinha)
+- Place: Chikkaballapur, Karnataka,India
+- Bio: Final year CSE student
+- GitHub: Raushan-Kumar-Sinha(https://github.com/Raushan-Kumar-Sinha)
 
 
