@@ -12,6 +12,8 @@
 - Place: Hyderabad, India
 - Bio: Aspiring Programmer
 - GitHub - susritha-s
+
+=======
 =======
 - GitHub - imshubh69
 
@@ -50,7 +52,11 @@
 - Bio: Software Engineer, Btech 3rd Year
 - GitHub - sritikamanjrekar
 
+
 #### Name: [Ayush Rathore](https://github.com/ayusshrathore)
 - Place: Jodhpur, Rajasthan, India
 - Bio: Full Stack Developer
 - GitHub: [ayusshrathore](https://github.com/ayusshrathore)
+=======
+
+
