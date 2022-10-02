@@ -1,51 +1,25 @@
-##### Name - Mahesh Doiphode
-- Place: Pune, India
-- Bio: Software Engineer, Graduated from DPCOE, Pune
-- GitHub - @MaheshDoiphode
+# Contributions
 
-##### Name - Dom
-- Place: Sydney, Australia
-- Bio: Aspiring Programmer
-- GitHub - DrDSnutts
-
-##### Name - Susritha
-- Place: Hyderabad, India
-- Bio: Aspiring Programmer
-- GitHub - susritha-s
-
-=======
-=======
-- GitHub - imshubh69
+**Did you find a bug?**
+- Raise an Issue regarding the same with appropriate tags.
+- Ensure the Issue is not pre-existing by searching under Project Issues.
 
 
-##### Name - Debak Roy
-- Place: West Bengal, India
-- Bio: CSE undergrad, Techno Main Salt Lake, West Bengal
-- GitHub - @slayeh17
-=======
+**Do you want to request or add a new feature?**
+- Open Issues stating the utility and benefits of the feature to be added or requested.
+- Reading suggestions or good resources to learn Java or any of its tools (Maven, Jenkins, etc.) would be appreciated under Issues itself.
 
-#### Name: Mansi
-- Place: Allahabad 
-- Bio: Software Engineer
-- GitHub: mansi0703
-=======
 
-#### Name: Anns Shahbaz
-- Place: Lahore, Punjab, Pakistan
-- Bio: Game Develeoper
-- GitHub: Ansi007 (https://github.com/Ansi007)
-=======
-- 
-- ##### Name - Shivan Sahni
-- Place: Lakhimpur kheri, India
-- Bio: Aspiring Programmer
-- GitHub - Shivan09
-=======
+**Would you like to contribute to the documentation or suggest any changes there?**
+- Open Pull Requests in case substantial changes are involved.
+- Open Issues if changes are minor.
 
-##### Name - Aman Kumar Yadav
-- Place: Greater Noida, India
-- Bio: Aspiring Programmer, Btech 3rd Year
-- GitHub - Ydvaaman
+
+**Would you like to improve the code for any implementations that have been done?**
+- Write out an Issue describing the change.
+- Make a detailed PR explaining the changes.
+
+
 
 ##### Name - Meziyum
 - Place: Greater Noida, India
@@ -105,3 +79,7 @@
 - Place: Vellore, Tamil Nadu, India
 - Bio: Computer Science Undergrad, MERN Stack Web Developer
 - GitHub: [Srishti2128](https://github.com/Srishti2128)
+=======
+**Any questions regarding anything - implementation, clarification on policies, further reading suggestions, etc.?**
+- Open an Issue with appropriate tags.
+
